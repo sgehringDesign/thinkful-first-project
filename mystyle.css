@@ -1,0 +1,39 @@
+
+
+/* BASE HTML */
+
+body {
+	background: #ccc;
+	font-family: Rockwell,"Courier Bold",Courier,Georgia,Times,"Times New Roman",serif;
+	margin:20px 20px;
+}
+
+h1 {
+	color:red;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p {
+	margin-top: 0px;
+	font-weight: 100;
+}
+
+
+/* Asthetical treatment */
+
+#main {
+	background: #fff;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+
+/* Handling reponsivenes  */
+
+.container-fluid {
+  padding: 20px 25px;
+  margin-right: auto;
+  margin-left: auto;
+}
